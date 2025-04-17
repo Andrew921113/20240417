@@ -1,3 +1,4 @@
+#Andrew921113
 df <- read.csv("C:/Users/user/Downloads/Mobiles.csv")
 
 #Q1
